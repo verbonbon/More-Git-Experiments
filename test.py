@@ -1,2 +1,3 @@
-results = 2*3
-print(results)
+print("Python is fun")
+Print("Another line"!)
+
